@@ -29,6 +29,8 @@ h1 {
 
 #input-box {
     width: 200px;
+    outline: none;
+    font-style: italic;
     padding: 10px;
     border: 1px solid #ccc;
     border-radius: 5px;
